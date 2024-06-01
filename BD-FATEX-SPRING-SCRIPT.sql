@@ -93,7 +93,7 @@ CREATE TABLE CAR_CARONAS(
  CAR_PARTIDA INT NOT NULL,
  CAR_CHEGADA INT NOT NULL,
  CAR_VALOR_DOACAO DECIMAL(10,2) NOT NULL,
- CAR_STATUS ENUM('Agendada', 'Em andamento', 'Cancelada', 'Concluida'),
+ CAR_STATUS ENUM('Agendada', 'Em_andamento', 'Cancelada', 'Concluida'),
  MOT_ID INT NOT NULL,
  VEI_ID INT NOT NULL,
  
