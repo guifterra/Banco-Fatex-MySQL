@@ -25,10 +25,11 @@ O **FATEX** é um aplicativo desenvolvido para facilitar o transporte dos alunos
 ✔️ Histórico de caronas  
 ✔️ Sistema de suporte e administração  
 
-## 💰 Monetização
-O projeto se manterá gratuito para os usuários por meio da exibição de **anúncios do Google Ads**.
-
 ## 🔧 Requisitos para Rodar o Projeto
+### 🔹 Banco MySQL local
+1. Instale o MySQL
+2. Execute o Script para gerar o banco do FATEX
+
 ### 🔹 Backend
 1. Instale o **Java 17** ou superior.
 2. Instale o **Spring Boot** e configure o **MySQL**.
